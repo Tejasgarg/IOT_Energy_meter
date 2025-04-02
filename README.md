@@ -18,6 +18,12 @@ Key Features:
 
 Integrating IoT into energy tracking brings us closer to smarter, data-driven electricity consumption, with great potential for optimizing energy use in homes, offices, societies, and condominiums.
 
+Schematic Diagram:
+
+<img src="https://github.com/user-attachments/assets/ef5be46b-1478-4c0f-bed7-d7879fce8788" width="900">
+<br>
+<br>
+
 The Implementation:
 
 <img src="https://github.com/user-attachments/assets/2c14a163-3154-416f-a030-3f40674d9e88" width="400">
